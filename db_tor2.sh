@@ -59,7 +59,7 @@ echo > serverside_ID_83892957.txt "
 	<Name>$target_name</Name>
 	<Second_Name>$second_tar</Second_Name>
 	<Age>$age_</Age>
-	<Country>$country</Country>
+	<Country>$country_</Country>
 </Root>
 "
 echo done...
